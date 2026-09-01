@@ -290,4 +290,3 @@ st.info(
 st.markdown("### 이 그래프로 알 수 있는 것")
 
 st.write("")
-```
